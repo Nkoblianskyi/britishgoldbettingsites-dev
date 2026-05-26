@@ -175,7 +175,6 @@ export function Footer() {
                 aria-label={`${alt} — opens in new tab`}
                 className="group transition-opacity hover:opacity-90 flex items-center justify-center"
                 style={{
-                  background: "#ffffff",
                   padding: "12px 20px",
                   width: width + 40,
                   height: 64,
