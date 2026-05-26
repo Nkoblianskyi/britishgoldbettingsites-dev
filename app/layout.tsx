@@ -22,16 +22,16 @@ const _jetbrains = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  title: "British Gold Betting Sites — Top UK Bookmakers 2025",
+  title: "British Gold Betting Sites - Top UK Bookmakers 2026",
   description:
     "British Gold Betting Sites ranks the UK's finest UKGC-licensed bookmakers. Independent expert reviews covering odds quality, welcome bonuses, payout speed, and responsible gambling tools. Updated monthly at britishgoldbettingsites.com.",
   keywords:
-    "British gold betting sites, best betting sites UK, UK bookmakers 2025, UKGC licensed bookmakers, sports betting UK, free bets, betting offers, top bookmakers",
+    "British gold betting sites, best betting sites UK, UK bookmakers 2026, UKGC licensed bookmakers, sports betting UK, free bets, betting offers, top bookmakers",
   robots: "index, follow",
   referrer: "strict-origin-when-cross-origin",
   authors: [{ name: "British Gold Betting Sites Editorial Team" }],
   openGraph: {
-    title: "British Gold Betting Sites — Top UK Bookmakers 2025",
+    title: "British Gold Betting Sites - Top UK Bookmakers 2026",
     description:
       "Independent expert rankings of the best UK betting sites. UKGC-licensed only. Reviewed for odds, bonuses, safety, and payouts. Updated monthly.",
     url: "https://britishgoldbettingsites.com",
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "British Gold Betting Sites — Top UK Bookmakers 2025",
+    title: "British Gold Betting Sites - Top UK Bookmakers 2026",
     description:
       "The UK's most trusted comparison of UKGC-licensed bookmakers. Expert-reviewed, unbiased, updated monthly.",
   },
