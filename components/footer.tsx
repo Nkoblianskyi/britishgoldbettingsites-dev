@@ -1,3 +1,5 @@
+"use client"
+
 import Link from "next/link"
 import { ShieldCheck, Scale, ExternalLink } from "lucide-react"
 
